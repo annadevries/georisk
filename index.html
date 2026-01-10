@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GEORISK</title>
+  </head>
+  <body>
+    <div id="app">
+      <canvas id="c"></canvas>
+
+      <div class="hud">
+        <div class="hud-top">
+          <div class="brand">
+            <div class="brand-title">GEORISK</div>
+            <div class="brand-sub">hourly geopolitical signal</div>
+          </div>
+          <div class="markets" id="markets"></div>
+        </div>
+
+        <div class="ticker">
+          <div class="ticker-label">LIVE</div>
+          <div class="ticker-track">
+            <div class="ticker-text" id="tickerText">loading…</div>
+          </div>
+          <div class="ticker-time" id="tickerTime"></div>
+        </div>
+      </div>
+    </div>
+
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

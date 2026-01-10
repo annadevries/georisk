@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-01-10T00:55:45.133Z",
+  "headlines": [
+    {
+      "title": "Signal spike detected across multiple regions",
+      "region": "World"
+    },
+    {
+      "title": "Logistics anomalies near key hubs",
+      "region": "Europe"
+    },
+    {
+      "title": "Macro prints shift risk appetite",
+      "region": "Markets"
+    }
+  ],
+  "map_points": [
+    {
+      "lat": 52.52,
+      "lon": 13.405,
+      "title": "Berlin: Signal spike",
+      "kind": "news"
+    },
+    {
+      "lat": 40.64,
+      "lon": -73.78,
+      "title": "Top flight: widebody",
+      "kind": "flight"
+    },
+    {
+      "lat": 1.2,
+      "lon": 103.8,
+      "title": "Top vessel presence",
+      "kind": "ship"
+    }
+  ],
+  "markets": {
+    "gold_usd": 144936.04779256906,
+    "btc_usd": 90229,
+    "wti_usd": 59.12,
+    "brent_usd": 63.01
+  }
+}
