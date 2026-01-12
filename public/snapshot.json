@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-12T22:27:42.383Z",
+  "generated_at": "2026-01-12T23:24:37.253Z",
   "headlines": [
     {
       "title": "Signal spike detected across multiple regions",
@@ -35,9 +35,9 @@
     }
   ],
   "markets": {
-    "gold_usd": 147845.6903570298,
-    "btc_usd": 91283.3,
-    "wti_usd": 59.67,
-    "brent_usd": 64.31
+    "gold_usd": 147482.3869208043,
+    "btc_usd": 91150.2,
+    "wti_usd": 59.76,
+    "brent_usd": 64.28
   }
 }
